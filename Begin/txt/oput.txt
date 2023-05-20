@@ -1,0 +1,7 @@
+this is what we know about the avocado:this is what we know about the avocado:this is what we know about the avocado:this is what we know about the avocado:this is what we know about the avocado:this is what we know about the avocado:Hello this is input txt
+Created onfunction now() { [native code] }
+Created on1681820750047
+Created on1681820757875
+Created on1681820771697
+Created on1681820814034
+Created on1681820964701

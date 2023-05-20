@@ -1,0 +1,10 @@
+::-webkit-scrollbar{
+    width: 0;
+}
+.title{
+    width: 400px;
+}
+#todo{
+    overflow-y: auto;
+    height: 400px;
+}
